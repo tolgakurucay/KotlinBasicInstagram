@@ -1,0 +1,3 @@
+# KotlinBasicInstagram
+It's an application I wrote when I was just starting to learn Kotlin.
+I used firebase, user permissions, viewBinding, optionsMenu components etc...
